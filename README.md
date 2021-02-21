@@ -9,6 +9,6 @@
 # );
 # Create table positions(
 #	id int,
-#	name varchar(30),
+#	name varchar(255),
 #	salary int
 # );
